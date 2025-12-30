@@ -1,0 +1,13 @@
+# Environment files
+.env
+.env.*
+backend/.env
+frontend/.env
+
+# Temp / Office files
+~$*
+*.tmp
+
+# Node / Python junk
+node_modules/
+__pycache__/
